@@ -108,10 +108,11 @@ footer {
 	 color: white;
 }
 
-.projects h2 {
+.projects h1 {
 	text-align: center;
 	margin-top: 2em;
 	color: #2468A6;
+	font-size: 2em;
 }
 
 h1, h2 {
@@ -119,7 +120,7 @@ h1, h2 {
 }
 
 h2 {
-	font-size: 1.5em;
+	font-size: 1.2em;
 	color: #2468A6;
 }
 
