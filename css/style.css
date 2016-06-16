@@ -42,6 +42,11 @@ html {
    .project-item {
 	   margin-bottom: 0;
    }
+
+   footer > .footer-content {
+     width: 100%;
+     font-size: 1.5em;
+}
    
 }
 
