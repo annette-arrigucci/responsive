@@ -36,9 +36,9 @@ html {
   }
 
    .projects h1 {
-   	   font-size: 1.8em;
    	   margin: 0;
    }
+
    .project-item {
 	   margin-bottom: 0;
    }
@@ -46,7 +46,11 @@ html {
    footer > .footer-content {
      width: 100%;
      font-size: 1.5em;
-}
+     letter-spacing: 2px;
+     padding-top: 1em;
+     padding-bottom: 1em;
+     font-weight: bold;
+    }
    
 }
 
@@ -115,7 +119,6 @@ footer {
 	text-align: center;
 	margin-top: 2em;
 	color: #2468A6;
-	font-size: 1.8em;
 }
 
 h1, h2 {
