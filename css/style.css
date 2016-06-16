@@ -13,7 +13,6 @@ html {
     	width: 100%;
     	margin-right: auto;
     	margin-left: auto;
-    	margin-bottom: 1em;
     }
     body {
     	font-size: 1.5em;
@@ -82,7 +81,7 @@ body {
 
 .project-item img {
 	float: left;
-	
+	margin-bottom: 1em;
 }
 
 .project-description {
@@ -90,7 +89,7 @@ body {
 	width: 35.5em;
 	margin-top: 0;
 	margin-left: 2em;
-	margin-bottom: 23em;
+	margin-bottom: 25em;
 }
 
 footer {
