@@ -13,21 +13,30 @@ html {
     	width: 100%;
     	margin-right: auto;
     	margin-left: auto;
+    	margin-bottom: 1em;
     }
     body {
     	font-size: 1.5em;
     }
+    .introduction-section p {
+		font-size: 1.5em;
+		margin-left: auto;
+		margin-right: auto;
+		width: 80% !important;
+		font-style: italic;
+	}
+
     .project-description { 
 	   width: 100%;
 	   font-size: 1.5em;
 	   margin-right: auto;
 	   margin-left: auto;
-	   margin-bottom: 0;
+	   margin-bottom: 2em !important;
 	   padding: 0;
-	   border: 1px solid black;
   }
 
    .projects h1 {
+   	   font-size: 1.8em;
    	   margin: 0;
    }
    .project-item {
@@ -69,10 +78,6 @@ body {
 	font-style: italic;
 }
 
-.project-item {
-	margin-bottom: 1em;
-}
-
 .project-item img {
 	float: left;
 	
@@ -91,7 +96,6 @@ footer {
      text-align: center;
      background-color: #79B6F3;
 }
-
 
 .footer-content {
      width: 60.6em;
